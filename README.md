@@ -1,3 +1,13 @@
+<div style="width: 100%;">
+  <a href="https://github.com/ManuelJMazonM/ManuelJMazonM/edit/main/welcome.svg">
+    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
+
+<!---
+ManuelJMazonM/ManuelJMazonM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+
 - 👋 Hi, I’m @ManuelJMazonM
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -5,8 +15,4 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<!---
-ManuelJMazonM/ManuelJMazonM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
